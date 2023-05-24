@@ -1283,6 +1283,7 @@ class _VehicleRegistrationScreenState extends State<VehicleRegistrationScreen> {
                           ),)
                       ),
 
+
                       Padding(
                         padding: EdgeInsets.only(right: parentWidth*0.0),
                         child: Container(
